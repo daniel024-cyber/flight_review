@@ -1,6 +1,6 @@
 i was on an internship with forage so i worked on customer sentiment reviews where i Trained an SVM model to analyze the sentiments expressed in the extracted reviews. so i first extracted the first 1000 reviews by the customer on their site using beautiful soup, then i further i did cleaned and preprocess the data, and manually labbeled from 1 to 100 of the data for sentiment prediction after which i trained the data using deep neural network but encountered a very massive error. i tried using SVN TO PREDICT the sentiments and came up with an accuracy of 90 which very high and a massive improvement to the deep neural network i used earlier.
 
-So  i came to a conclusion that trasitional models tends to do well in smaller dataset compared to deep learning.
+So  i came to a conclusion that traditional models tends to do very well in smaller dataset compared to deep learning.
 
 finally i was able to analyse, identify and address customer concens in real time, extract meaningful insights from large volumes of text data. It enables organizations to make data-driven decisions, enhance customer experiences, and adapt strategies based on the prevailing sentiments in the market or community. The predictions act as a tool for businesses to navigate and respond to the dynamic landscape of public opinion.
 # flight_review
